@@ -930,17 +930,17 @@ footer {
     }
 }
 
-/** contains styles for petoo footer logo and copy right text**/
-.petoo-footer-cp-text{
+/** contains styles for combo footer logo and copy right text**/
+.combo-footer-cp-text{
     padding: 2em 0 0 1em; 
 }
-.petoo-footer-cp-text p{
+.combo-footer-cp-text p{
     opacity:0.5;
     font-size:.8em;
     color:#000;
     line-height:20px;
 }
-.petoo-footer-links a{
+.combo-footer-links a{
     opacity: 0.5;
     line-height:1.7em;
     color: #000;
@@ -1155,7 +1155,7 @@ ul.social-network li a {
     text-align: center;
 }
 @media(max-width: 768px){
-    .petoo-footer-cp-text{
+    .combo-footer-cp-text{
         padding: 2em 1em 0 1em;
     }
 }
